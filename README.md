@@ -43,3 +43,8 @@ $ python3 trilce_login.py
 # pip install colorama
 # pip install requests
 ```
+
+# My social networks
+- [`Instagram`](https://www.instagram.com/d4vid.0day/)
+
+# BoT-Trilce code by monkey-hk4 - 09/2022
