@@ -36,3 +36,10 @@ $ pip install -r requirements.txt
 # beginning
 $ python3 trilce_login.py
 ```
+
+# REQUIREMENTS
+```bash
+# pip install pwntools
+# pip install colorama
+# pip install requests
+```
