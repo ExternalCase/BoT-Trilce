@@ -44,6 +44,17 @@ $ python3 trilce_login.py
 # pip install requests
 ```
 
+# sample list of dnis.txt
+```bash
+00000001
+00000002
+00000003
+60875375
+87536790
+10783672
+```
+
+
 # My social networks
 - [`Instagram`](https://www.instagram.com/d4vid.0day/)
 
